@@ -56,7 +56,7 @@ El sistema utiliza MySQL con las siguientes entidades principales:
 
 ```bash
 git clone <https://github.com/LemonMantis5571/Historial-Medico-Back>
-cd medical-history-backend
+cd Historial-Medico-Back
 ```
 
 ### 2. Crear Entorno Virtual
